@@ -1,0 +1,9 @@
+npx create-react-app todo-react-app
+
+
+ npx create-react-app todo-react-app
+
+
+cd todo-react-app
+npm start
+
